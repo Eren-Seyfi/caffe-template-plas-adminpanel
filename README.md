@@ -1,22 +1,22 @@
-caffe-template-plas-adminpanel
+# Caffe Template Plus Admin Panel
 
+This project ...
 
+## Screenshots
 
-# Proje Adı
+![Home Page](cafee_page_home.png)
+Login Page
+![Login Page](cafee_page_login.png)
 
-Bu proje ...
+Admin Page
+![Admin Page](cafee_page_admin.png)
 
-## Ekran Görüntüleri
+Admin Page - Add Items
+![Admin Page - Add Items](cafee_page_admin_items_add.png)
 
-![Ana Ekran](cafee_page_home.png)
-Login page
-![Detay Ekranı](cafee_page_login.png)
+Admin Page - List Items
+![Admin Page - List Items](cafee_page_admin_items_list.png)
 
-Admin page
-![Detay Ekranı](cafee_page_admin.png)
+## Description
 
-Admin page items add
-![Detay Ekranı](cafee_page_admin_items_add.png)
-
-Admin page items list
-![Detay Ekranı](cafee_page_admin_items_list.png)
+This project includes a simple admin panel made for cafes. It allows adding, listing, and deleting products for both hot and cold items.

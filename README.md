@@ -20,3 +20,4 @@ Admin Page - List Items
 ## Description
 
 This project includes a simple admin panel made for cafes. It allows adding, listing, and deleting products for both hot and cold items.
+<img src="https://www.w3schools.com/tags/img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
